@@ -1,29 +1,3 @@
-学习笔记
-1、用 add first 或 add last 这套新的 API 改写 Deque 的代码
-    Deque<String> deque = new LinkedList<>();
-    deque.addLast("a");
-    deque.addLast("b");
-    deque.addLast("c");
-    deque.addLast("d");
-    System.out.println(deque);
-    String peek = deque.peek();
-    System.out.println(peek);
-    System.out.println(deque);
-    while (deque.size() > 0){
-        System.out.println(deque.pollLast());
-    }
-    System.out.println(deque);
-    
-2、分析 Queue 和 Priority Queue 的源码
-Queue 满足先进新出，类似真实世界的排队，特殊的队列有双端队列、优先级队列（优先级高的往前排，类似VIP客户）
-java中的PriorityQueue是一种无界的，线程不安全的队列；PriorityQueue是一种通过数组实现的，并拥有优先级的队列；
-PriorityQueue存储的元素要求必须是可比较的对象， 如果不是就必须明确指定比较器
-
-
-
-
-
-
 
 算法练习总结
 本周的算法题主要集中在数组，链表，以及栈和队列相关的题目，下面总结一下这周训练过程中获得的解题技巧，
@@ -40,8 +14,30 @@ PriorityQueue存储的元素要求必须是可比较的对象， 如果不是就
 技巧4：理解题意，关注边界
 我认为很多算法题目其实解法并不难，难的在于深入的利用题目所给出的限定条件，这时就需要深刻理解题目， 就像老师课程中讲的，面试时要和面试官反复确认题目要求，确保理解题意；而另外一个重点就是关注各种边界 条件的处理，因为往往逻辑虽然是正确的，但也会由于边界条件没有仔细考虑，而导致某些corner case无法 通过。
 
+以上都是借鉴笔记：https://github.com/kevinnerd/algorithm008-class01/tree/master/Week_01
+
+课后分析题
+1、用 add first 或 add last 这套新的 API 改写 Deque 的代码。
+    Deque<String> deque = new LinkedList<>();
+    deque.addLast("a");
+    deque.addLast("b");
+    deque.addLast("c");
+    deque.addLast("d");
+    System.out.println(deque);
+    String peek = deque.peek();
+    System.out.println(peek);
+    System.out.println(deque);
+    while (deque.size() > 0){
+        System.out.println(deque.pollLast());
+    }
+    System.out.println(deque);
+    
+2、分析 Queue 和 Priority Queue 的源码。
+Queue 满足先进新出，类似真实世界的排队，特殊的队列有双端队列、优先级队列（优先级高的往前排，类似VIP客户）
+java中的PriorityQueue是一种无界的，线程不安全的队列；PriorityQueue是一种通过数组实现的，并拥有优先级的队列；
+PriorityQueue存储的元素要求必须是可比较的对象， 如果不是就必须明确指定比较器
+
 注意：
 好记性不如烂笔头， 因此请尝试
 1）给每一道自己写过，看过的题目写一篇解题报告，
 2）对相关一类题型的总结报告。
-https://github.com/kevinnerd/algorithm008-class01/tree/master/Week_01
