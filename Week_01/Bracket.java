@@ -14,6 +14,7 @@ public class Bracket {
         System.out.println(valid);
     }
 
+
     public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         char[] chars = s.toCharArray();
