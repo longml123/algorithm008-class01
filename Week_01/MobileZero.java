@@ -12,7 +12,6 @@ public class MobileZero {
             System.out.println("移动后顺序"+ i);
         }
 
-
     }
 
     private static void moveZeros01(int[] nums) {
