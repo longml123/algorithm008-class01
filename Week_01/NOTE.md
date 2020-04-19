@@ -14,7 +14,7 @@
 技巧4：理解题意，关注边界
 我认为很多算法题目其实解法并不难，难的在于深入的利用题目所给出的限定条件，这时就需要深刻理解题目， 就像老师课程中讲的，面试时要和面试官反复确认题目要求，确保理解题意；而另外一个重点就是关注各种边界 条件的处理，因为往往逻辑虽然是正确的，但也会由于边界条件没有仔细考虑，而导致某些corner case无法 通过。
 
-以上都是借鉴笔记：https://github.com/kevinnerd/algorithm008-class01/tree/master/Week_01
+以上都是借鉴笔记：https://github.com/kevinnerd/algorithm008-class01/blob/master/Week_01/NOTE.md
 
 课后分析题
 1、用 add first 或 add last 这套新的 API 改写 Deque 的代码。
