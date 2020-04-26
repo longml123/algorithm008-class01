@@ -13,10 +13,8 @@ HashMap主要用来存放键值对，它基于哈希表的Map接口实现，是�
 
 内部结构分析
 JDK1.8之前：
-JDK1.8之前HashMap底层是数组和链表结合在一起使用也就是链表散列。
-HashMap通过key的hashCode来计算hash值，当hashCode相同时，通过“拉链法”解决冲突。
-所谓“拉链法”就是：将链表和数组相结合。也就是说创建一个链表数组，
-数组中每一格就是一个链表。若遇到哈希冲突，则将冲突的值加到链表中即可。
+JDK1.8之前HashMap底层是数组和链表结合在一起使用也就是链表散列。HashMap通过key的hashCode来计算hash值，当hashCode相同时，通过“拉链法”解决冲突。
+所谓“拉链法”就是：将链表和数组相结合。也就是说创建一个链表数组，数组中每一格就是一个链表。若遇到哈希冲突，则将冲突的值加到链表中即可。
 
 简单来说，JDK1.8之前HashMap由数组+链表组成的，数组是HashMap的主体，
 链表则是主要为了解决哈希冲突而存在的，如果定位到的数组位置不含链表（当前entry的next指向null）,
@@ -58,6 +56,7 @@ public class HashMap<K,V> extends AbstractMap<K,V> implements Map<K,V>, Cloneabl
     // 填充因子
     final float loadFactor;
 }
+
 
 (1)loadFactor加载因子
 loadFactor加载因子是控制数组存放数据的疏密程度，loadFactor越趋近于1，
