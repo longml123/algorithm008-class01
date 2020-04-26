@@ -366,3 +366,8 @@ final Node<K,V>[] resize() {
     return newTab;
 }
 
+
+
+推荐
+HashMap：
+https://zhuanlan.zhihu.com/p/21673805
