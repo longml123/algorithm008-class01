@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5cb3e91-15ce-46b0-8ee8-0f3f944cde3c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_02/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/NOTE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_00/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/NOTE.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +15,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_02/NOTE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+              <first_editor relative-caret-position="259">
+                <caret line="370" column="8" selection-start-line="370" selection-start-column="8" selection-end-line="370" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="304">
+                <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week_00/NOTE.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="807">
+                <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,6 +65,8 @@
         <option value="$PROJECT_DIR$/Week_01/NOTE.md" />
         <option value="$PROJECT_DIR$/Week_02/TreeNode.java" />
         <option value="$PROJECT_DIR$/Week_02/NOTE.md" />
+        <option value="$PROJECT_DIR$/Week_03/NOTE.md" />
+        <option value="$PROJECT_DIR$/week_00/NOTE.md" />
       </list>
     </option>
   </component>
@@ -53,10 +80,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
+    <option name="x" value="1006" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -74,12 +100,12 @@
             <path>
               <item name="algorithm008-class01" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm008-class01" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm008-class01" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm008-class01" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,6 +125,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\algorithm008-class01\week_00" />
       <recent name="D:\github\algorithm008-class01\Week_02" />
       <recent name="D:\github\algorithm008-class01\Week_01" />
     </key>
@@ -176,7 +203,7 @@
       <workItem from="1587210049057" duration="673000" />
       <workItem from="1587299679744" duration="9096000" />
       <workItem from="1587449029395" duration="1846000" />
-      <workItem from="1587719563732" duration="3984000" />
+      <workItem from="1587719563732" duration="11933000" />
     </task>
     <task id="LOCAL-00001" summary="提交第一周学习总结。&#10;add">
       <created>1587302210092</created>
@@ -241,14 +268,29 @@
       <option name="project" value="LOCAL" />
       <updated>1587906213546</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="提交第二周学习总结。&#10;新增，添加笔记。">
+      <created>1587908859723</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587908859723</updated>
+    </task>
+    <task id="LOCAL-00011" summary="提交第二周学习总结。&#10;新增，添加笔记。">
+      <created>1587910894050</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587910894051</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20748000" />
+    <option name="totallyTimeSpent" value="28697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -261,11 +303,11 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3382353" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3382353" />
       <window_info anchor="right" id="Word Book" side_tool="true" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2055256" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06671159" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -294,7 +336,8 @@
     <MESSAGE value="提交第一周学习总结。&#10;修改，学习总结。" />
     <MESSAGE value="提交第二周学习总结。&#10;修改，学习总结。" />
     <MESSAGE value="提交第二周学习总结。&#10;新增，添加代码。" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交第二周学习总结。&#10;新增，添加代码。" />
+    <MESSAGE value="提交第二周学习总结。&#10;新增，添加笔记。" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交第二周学习总结。&#10;新增，添加笔记。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Week_01/NOTE.md">
@@ -510,8 +553,28 @@
     <entry file="file://$PROJECT_DIR$/Week_02/NOTE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+          <first_editor relative-caret-position="259">
+            <caret line="370" column="8" selection-start-line="370" selection-start-column="8" selection-end-line="370" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_00/NOTE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="807">
+            <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
