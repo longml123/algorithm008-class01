@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5cb3e91-15ce-46b0-8ee8-0f3f944cde3c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_03/BuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_03/Combine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_03/LowestCommon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_03/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_03/PermuteUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_00/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/week_00/NOTE.md" afterDir="false" />
-    </list>
+    <list default="true" id="f5cb3e91-15ce-46b0-8ee8-0f3f944cde3c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +52,9 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="LowestCommon" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week_03/LowestCommon">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
+      <file leaf-file-name="RecentCommonAncestor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_03/RecentCommonAncestor.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="BuildTree.java" pinned="false" current-in-tab="false">
@@ -235,7 +222,7 @@
       <workItem from="1588131395698" duration="598000" />
       <workItem from="1588845079363" duration="197000" />
       <workItem from="1588845304445" duration="435000" />
-      <workItem from="1588845897963" duration="1281000" />
+      <workItem from="1588845897963" duration="1964000" />
     </task>
     <task id="LOCAL-00001" summary="提交第一周学习总结。&#10;add">
       <created>1587302210092</created>
@@ -321,14 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587964115983</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="提交第3周学习总结。&#10;新增，添加代码。">
+      <created>1589119615424</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589119615424</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34394000" />
+    <option name="totallyTimeSpent" value="35077000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -341,11 +335,11 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32988167" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32988167" />
       <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27462888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27462888" />
       <window_info anchor="bottom" id="JProfiler" order="8" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -377,19 +371,10 @@
     <MESSAGE value="提交第二周学习总结。&#10;新增，添加代码。" />
     <MESSAGE value="提交第二周学习总结。&#10;新增，添加笔记。" />
     <MESSAGE value="提交第零周学习总结。&#10;新增，添加笔记。" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交第零周学习总结。&#10;新增，添加笔记。" />
+    <MESSAGE value="提交第3周学习总结。&#10;新增，添加代码。" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交第3周学习总结。&#10;新增，添加代码。" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week_02/NOTE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="7030">
-            <caret line="370" column="8" selection-start-line="370" selection-start-column="8" selection-end-line="370" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -725,6 +710,9 @@
           <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/RecentCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
