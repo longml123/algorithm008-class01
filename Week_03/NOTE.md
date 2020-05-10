@@ -337,6 +337,7 @@ def divide_conquer(problem, param1, param2, ...):
 	print_result 
 	return 
 
+
   # prepare data 
   data = prepare_data(problem) 
   subproblems = split_problem(problem, data) 
