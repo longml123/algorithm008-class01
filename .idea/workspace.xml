@@ -23,12 +23,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <first_editor relative-caret-position="5237">
+                <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
               </first_editor>
               <second_editor />
             </state>
@@ -52,7 +52,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="RecentCommonAncestor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RecentCommonAncestor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_03/RecentCommonAncestor.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -76,9 +76,9 @@
         <option value="$PROJECT_DIR$/Week_01/NOTE.md" />
         <option value="$PROJECT_DIR$/Week_02/TreeNode.java" />
         <option value="$PROJECT_DIR$/Week_02/NOTE.md" />
-        <option value="$PROJECT_DIR$/Week_03/NOTE.md" />
         <option value="$PROJECT_DIR$/week_00/NOTE.md" />
         <option value="$PROJECT_DIR$/Week_03/LowestCommon" />
+        <option value="$PROJECT_DIR$/Week_03/NOTE.md" />
       </list>
     </option>
   </component>
@@ -131,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/gitlab/qer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -222,7 +222,7 @@
       <workItem from="1588131395698" duration="598000" />
       <workItem from="1588845079363" duration="197000" />
       <workItem from="1588845304445" duration="435000" />
-      <workItem from="1588845897963" duration="1964000" />
+      <workItem from="1588845897963" duration="2782000" />
     </task>
     <task id="LOCAL-00001" summary="提交第一周学习总结。&#10;add">
       <created>1587302210092</created>
@@ -315,14 +315,29 @@
       <option name="project" value="LOCAL" />
       <updated>1589119615424</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="提交第3周学习总结。&#10;新增，添加代码。">
+      <created>1589120806604</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589120806604</updated>
+    </task>
+    <task id="LOCAL-00015" summary="提交第3周学习总结。&#10;新增，添加代码。">
+      <created>1589120882416</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589120882416</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35077000" />
+    <option name="totallyTimeSpent" value="35895000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -675,16 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week_00/NOTE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -713,6 +718,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_03/RecentCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5237">
+            <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
