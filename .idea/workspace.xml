@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5cb3e91-15ce-46b0-8ee8-0f3f944cde3c" name="Default" comment="" />
+    <list default="true" id="f5cb3e91-15ce-46b0-8ee8-0f3f944cde3c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/Week_02/NOTE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="7030">
+              <first_editor relative-caret-position="11470">
                 <caret line="370" column="8" selection-start-line="370" selection-start-column="8" selection-end-line="370" selection-end-column="8" />
               </first_editor>
               <second_editor />
@@ -23,12 +25,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="5237">
-                <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
+              <first_editor relative-caret-position="10509">
+                <caret line="339" selection-start-line="339" selection-end-line="339" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_04/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="NOTE.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_04/NOTE.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="31">
+                <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -39,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/week_00/NOTE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="275">
+              <first_editor relative-caret-position="2666">
                 <caret line="86" column="44" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
               </first_editor>
               <second_editor />
@@ -92,8 +111,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -103,6 +122,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -125,19 +145,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/gitlab/qer" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\algorithm008-class01\Week_04" />
       <recent name="D:\github\algorithm008-class01\Week_03" />
       <recent name="D:\github\algorithm008-class01\week_00" />
       <recent name="D:\github\algorithm008-class01\Week_02" />
@@ -223,6 +243,9 @@
       <workItem from="1588845079363" duration="197000" />
       <workItem from="1588845304445" duration="435000" />
       <workItem from="1588845897963" duration="2782000" />
+      <workItem from="1589725936740" duration="1873000" />
+      <workItem from="1590845998141" duration="1188000" />
+      <workItem from="1590894730771" duration="583000" />
     </task>
     <task id="LOCAL-00001" summary="提交第一周学习总结。&#10;add">
       <created>1587302210092</created>
@@ -329,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589120882416</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="提交第4周学习总结。&#10;新增，添加代码。">
+      <created>1589726019451</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589726019451</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35895000" />
+    <option name="totallyTimeSpent" value="39539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -350,11 +380,11 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32988167" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32291666" />
       <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27462888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06950068" />
       <window_info anchor="bottom" id="JProfiler" order="8" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -387,29 +417,10 @@
     <MESSAGE value="提交第二周学习总结。&#10;新增，添加笔记。" />
     <MESSAGE value="提交第零周学习总结。&#10;新增，添加笔记。" />
     <MESSAGE value="提交第3周学习总结。&#10;新增，添加代码。" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交第3周学习总结。&#10;新增，添加代码。" />
+    <MESSAGE value="提交第4周学习总结。&#10;新增，添加代码。" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交第4周学习总结。&#10;新增，添加代码。" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week_00/NOTE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1482">
-            <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_02/NOTE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -683,7 +694,7 @@
     <entry file="file://$PROJECT_DIR$/Week_02/NOTE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="7030">
+          <first_editor relative-caret-position="11470">
             <caret line="370" column="8" selection-start-line="370" selection-start-column="8" selection-end-line="370" selection-end-column="8" />
           </first_editor>
           <second_editor />
@@ -693,37 +704,42 @@
     <entry file="file://$PROJECT_DIR$/week_00/NOTE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="275">
+          <first_editor relative-caret-position="2666">
             <caret line="86" column="44" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_03/LowestCommonAncestor">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/LowestCommonAncestor" />
     <entry file="file://$PROJECT_DIR$/Week_03/PermuteUnique.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_03/BuildTree.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_03/LowestCommon">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/LowestCommon" />
     <entry file="file://$PROJECT_DIR$/Week_03/RecentCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_03/NOTE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="5237">
-            <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
+          <first_editor relative-caret-position="10509">
+            <caret line="339" selection-start-line="339" selection-end-line="339" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_04/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_04/NOTE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="31">
+            <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
