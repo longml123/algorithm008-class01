@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@longml123 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-GitHubWangJ
-/
-algorithm008-class01
-forked from algorithm008-class01/algorithm008-class01
-0
-0135
- Code
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
-algorithm008-class01/Week_07/NOTE.md
-@GitHubWangJ GitHubWangJ 提交极客时间算法训练营第八期第七周作业总结
-1ff8681 yesterday
-@GeekUniversity@GitHubWangJ
-204 lines (127 sloc)  6.22 KB
-  
-学习笔记
-
-[TOC]
 
 第13课-字典树和并查集
 字典树 Trie
@@ -54,6 +20,8 @@ Trie 树的核心思想是空间换时间。
 实战题目
 https://leetcode-cn.com/problems/implement-trie-prefix-tree/
 https://leetcode-cn.com/problems/word-search-ii/
+
+
 并查集 Disjoint Set
 适用场景
 组团、配对问题
